@@ -78,7 +78,7 @@ public class Solution {
         return new HashMap<>(){{
             put("Vowels: ", finalVowels);
             put("Consonant: ", finalConsonant);
-            put("Digit: ", finalDigit);
+            put("Digits: ", finalDigit);
             put("White Spaces: ", finalWhiteSpace);
         }};
     }
